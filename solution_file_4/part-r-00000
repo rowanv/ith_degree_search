@@ -1,0 +1,7 @@
+brendan	{(davidbowie),(kim),(omid),(torsten),(ziggy)}
+davidbowie	{(brendan),(kim),(mick),(omid),(torsten),(ziggy)}
+kim	{(brendan),(davidbowie),(mick),(omid),(torsten),(ziggy)}
+mick	{(davidbowie),(kim),(omid),(torsten),(ziggy)}
+omid	{(brendan),(davidbowie),(kim),(mick),(torsten),(ziggy)}
+torsten	{(brendan),(davidbowie),(kim),(mick),(omid),(ziggy)}
+ziggy	{(brendan),(davidbowie),(kim),(mick),(omid),(torsten)}
